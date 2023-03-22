@@ -1,4 +1,4 @@
-# FinanceNews_Sentiment_Projecy
+# FinanceNews_Sentiment_Projec
 
 ---
 
